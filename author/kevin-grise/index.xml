@@ -5,7 +5,7 @@
     <link>https://memenzel.github.io/author/kevin-grise/</link>
       <atom:link href="https://memenzel.github.io/author/kevin-grise/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Grise</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 13:45:00 -1500</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kevin Grise</title>
@@ -13,25 +13,19 @@
     </image>
     
     <item>
+      <title>Disconnect between Hadley Cell and Subtropical Jet Variability and Response</title>
+      <link>https://memenzel.github.io/talk/aofd_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 13:45:00 -1500</pubDate>
+      <guid>https://memenzel.github.io/talk/aofd_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2</title>
       <link>https://memenzel.github.io/publication/menzel_etal_2019/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2019 16:47:48 -0400</pubDate>
       <guid>https://memenzel.github.io/publication/menzel_etal_2019/</guid>
-      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
