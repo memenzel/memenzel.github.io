@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Molly Erin Menzel
+title: 吳恩達
 
 # Username (this should match the folder name)
 authors:
-- admin
+- 吳恩達
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Climate Scientist
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins University, Dept of Earth and Planetary Sciences
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: BIO GOES HERE!
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Climate Dynamics
-- Atmospheric General Circulation
-- Troposphere-Stratosphere Interactions
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Earth and Planetary Sciences
-    institution: Johns Hopkins University
-    year: 
-  - course: MS in Atmospheric and Oceanic Sciences
-    institution: McGill University
-    year: 2017
-  - course: BSc in Engineering Science and Mechanics
-    institution: Virginia Tech
-    year: 2014
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,5 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

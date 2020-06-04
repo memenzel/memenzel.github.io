@@ -1,3 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+[submodule "memenzel.github.io"]
+	path = memenzel.github.io
+	url = https://github.com/memenzel/memenzel.github.io.git
+	branch = master
