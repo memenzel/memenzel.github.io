@@ -5,7 +5,7 @@
     <link>https://memenzel.github.io/project/</link>
       <atom:link href="https://memenzel.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 16:38:21 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,23 +13,38 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>https://memenzel.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://memenzel.github.io/project/external-project/</guid>
-      <description></description>
+      <title>Subtropical Jet Behavior in Idealized Models</title>
+      <link>https://memenzel.github.io/project/ideal_atmos/</link>
+      <pubDate>Fri, 05 Jun 2020 16:38:21 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/ideal_atmos/</guid>
+      <description>&lt;p&gt;What are the necessary processes to decouple the subtropical jet from the Hadley Cell?&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://memenzel.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://memenzel.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Relationship of Subtropical Jet and Hadley Cell in CMIP5 Model Output</title>
+      <link>https://memenzel.github.io/project/cmip5/</link>
+      <pubDate>Fri, 05 Jun 2020 16:37:54 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/cmip5/</guid>
+      <description>&lt;p&gt;Is the subtropical jet actually coupled to the Hadley Cell?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tropical Expansion Metrics</title>
+      <link>https://memenzel.github.io/project/trop_metrics/</link>
+      <pubDate>Fri, 05 Jun 2020 16:37:31 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/trop_metrics/</guid>
+      <description>&lt;p&gt;How should we define tropical width?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Direct Effects of CO2 Radiative Forcing on Ocean Heat Uptake</title>
+      <link>https://memenzel.github.io/project/ohu/</link>
+      <pubDate>Fri, 05 Jun 2020 16:37:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/ohu/</guid>
+      <description>&lt;p&gt;Do the immediate changes of the atmosphere in response to instantaneous CO2 radiative forcing impact the ocean&amp;rsquo;s transient heat uptake?&lt;/p&gt;
 </description>
     </item>
     

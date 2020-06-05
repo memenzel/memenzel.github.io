@@ -3,18 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://memenzel.github.io/courses/example/example1/</loc>
+    <loc>https://memenzel.github.io/etc/courses_example/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://memenzel.github.io/courses/example/</loc>
+    <loc>https://memenzel.github.io/etc/courses_example/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://memenzel.github.io/courses/example/example2/</loc>
+    <loc>https://memenzel.github.io/etc/courses_example/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/post/academy/</loc>
+    <lastmod>2020-06-05T16:55:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/</loc>
+    <lastmod>2020-06-05T16:55:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/post/</loc>
+    <lastmod>2020-06-05T16:55:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/post/lectures/</loc>
+    <lastmod>2020-06-05T16:55:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/post/course/</loc>
+    <lastmod>2020-06-05T16:48:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/project/</loc>
+    <lastmod>2020-06-05T16:38:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/project/ideal_atmos/</loc>
+    <lastmod>2020-06-05T16:38:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/project/cmip5/</loc>
+    <lastmod>2020-06-05T16:37:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/project/trop_metrics/</loc>
+    <lastmod>2020-06-05T16:37:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/project/ohu/</loc>
+    <lastmod>2020-06-05T16:37:00-04:00</lastmod>
   </url>
   
   <url>
@@ -28,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://memenzel.github.io/</loc>
-    <lastmod>2019-10-08T12:00:00-60:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://memenzel.github.io/talk/jhu_eps_f2019/</loc>
     <lastmod>2019-10-08T12:00:00-60:00</lastmod>
   </url>
@@ -40,16 +85,6 @@
   <url>
     <loc>https://memenzel.github.io/talk/</loc>
     <lastmod>2019-10-08T12:00:00-60:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -98,68 +133,29 @@
   </url>
   
   <url>
-    <loc>https://memenzel.github.io/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/author/molly-erin-menzel/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/slides/</loc>
+    <loc>https://memenzel.github.io/etc/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://memenzel.github.io/slides/example/</loc>
+    <loc>https://memenzel.github.io/etc/slides_example/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://memenzel.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://memenzel.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://memenzel.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://memenzel.github.io/author/molly-erin-menzel/</loc>
   </url>
   
   <url>
     <loc>https://memenzel.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memenzel.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
