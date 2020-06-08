@@ -26,7 +26,7 @@
       <link>https://memenzel.github.io/project/cmip5/</link>
       <pubDate>Fri, 05 Jun 2020 16:37:54 -0400</pubDate>
       <guid>https://memenzel.github.io/project/cmip5/</guid>
-      <description>&lt;p&gt;Is the subtropical jet actually coupled to the Hadley Cell?&lt;/p&gt;
+      <description>&lt;p&gt;Current theory on atmospheric general circulation explains that the existence of the subtropical jet is due to the Hadley Cell&amp;rsquo;s conservation of angular moment. That is, as the upper branch of the Hadley Cell circulates from the equator to the subtropics, its radius to the axis of rotation of the Earth decreases thus the zonal flow in the circulation must increase to maintain angular momentum. In doing so, there is a maximum in upper tropospheric wind at the edge of the Hadley cell. However, analysis of the subtropical jet in output from the Coupled Model Intercomparison Project (CMIP5) do not support this theoretical explanation of the jet&amp;rsquo;s existance. Rather, the subtropical jet&amp;rsquo;s latitude does not covary with the Hadley Cell at all. This surprising result is discussed in greater detail in our GRL publication, &amp;ldquo;Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +35,7 @@
       <link>https://memenzel.github.io/project/trop_metrics/</link>
       <pubDate>Fri, 05 Jun 2020 16:37:31 -0400</pubDate>
       <guid>https://memenzel.github.io/project/trop_metrics/</guid>
-      <description>&lt;p&gt;How should we define tropical width?&lt;/p&gt;
+      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these inquires is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between &amp;ldquo;lower&amp;rdquo; and &amp;ldquo;upper&amp;rdquo; tropospheric metrics. Investigating the disconnect between these metrics categories is complementary to my main focus of diagnosing the true relationship between the subtropical jet and Hadley Cell. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
 </description>
     </item>
     
