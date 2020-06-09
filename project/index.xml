@@ -17,7 +17,7 @@
       <link>https://memenzel.github.io/project/ideal_atmos/</link>
       <pubDate>Fri, 05 Jun 2020 16:38:21 -0400</pubDate>
       <guid>https://memenzel.github.io/project/ideal_atmos/</guid>
-      <description>&lt;p&gt;What are the necessary processes to decouple the subtropical jet from the Hadley Cell?&lt;/p&gt;
+      <description>&lt;p&gt;A useful tool to diagnose the processes that control certain aspects of the atmosphere is an idealized atmospheric model. Although there exists a heirarchy of complexity even for idealized models, the intention is to simplify the atmosphere enough to isolate specific processes, sometimes at the expense of realistic output. Ultimately we aim to use idealized models to constrain the dynamics of the subtropical jet and it&amp;rsquo;s relationship to the Hadley Cell. In order to do so, we must identify the necessary model processes to decouple the subtropical jet from the Hadley Cell, and thus replicate that which is shown in CMIP5 analysis. Preliminary results suggest that zonal variability, even in a dry atmosphere, is responsible for this disconnect.&lt;/p&gt;
 </description>
     </item>
     
