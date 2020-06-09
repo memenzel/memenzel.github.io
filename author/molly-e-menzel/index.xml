@@ -5,12 +5,20 @@
     <link>https://memenzel.github.io/author/molly-e-menzel/</link>
       <atom:link href="https://memenzel.github.io/author/molly-e-menzel/index.xml" rel="self" type="application/rss+xml" />
     <description>Molly E Menzel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 12:00:00 -6000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 12:15:00 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Molly E Menzel</title>
       <link>https://memenzel.github.io/author/molly-e-menzel/</link>
     </image>
+    
+    <item>
+      <title>Disconnect between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2</title>
+      <link>https://memenzel.github.io/talk/dynvarmip_2019/</link>
+      <pubDate>Tue, 22 Oct 2019 12:15:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/dynvarmip_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Re-evaluating the Coupled Behavior of the Subtropical Jet and Hadley Cell</title>
@@ -41,6 +49,14 @@
       <link>https://memenzel.github.io/publication/menzel_etal_2019/</link>
       <pubDate>Fri, 07 Jun 2019 16:47:48 -0400</pubDate>
       <guid>https://memenzel.github.io/publication/menzel_etal_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships Between the Subtropical Jet and Hadley Cell</title>
+      <link>https://memenzel.github.io/talk/agu_2018/</link>
+      <pubDate>Fri, 14 Dec 2018 13:40:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/agu_2018/</guid>
       <description></description>
     </item>
     
