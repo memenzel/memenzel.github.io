@@ -5,7 +5,7 @@
     <link>https://memenzel.github.io/project/</link>
       <atom:link href="https://memenzel.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 16:38:21 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 00:04:09 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,38 +13,29 @@
     </image>
     
     <item>
-      <title>Subtropical Jet Behavior in Idealized Models</title>
-      <link>https://memenzel.github.io/project/ideal_atmos/</link>
-      <pubDate>Fri, 05 Jun 2020 16:38:21 -0400</pubDate>
-      <guid>https://memenzel.github.io/project/ideal_atmos/</guid>
-      <description>&lt;p&gt;A useful tool to diagnose the processes that control certain aspects of the atmosphere is an idealized atmospheric model. Although there exists a heirarchy of complexity even for idealized models, the intention is to simplify the atmosphere enough to isolate specific processes, sometimes at the expense of realistic output. Ultimately we aim to use idealized models to constrain the dynamics of the subtropical jet and it&amp;rsquo;s relationship to the Hadley Cell. In order to do so, we must identify the necessary model processes to decouple the subtropical jet from the Hadley Cell, and thus replicate that which is shown in CMIP5 analysis. Preliminary results suggest that zonal variability, even in a dry atmosphere, is responsible for this disconnect.&lt;/p&gt;
+      <title>Tropical Expansion Metrics</title>
+      <link>https://memenzel.github.io/project/trop_metrics/</link>
+      <pubDate>Thu, 25 Jun 2020 00:04:09 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/trop_metrics/</guid>
+      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these inquires is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between “lower” and “upper” tropospheric metrics. Investigating the disconnect between these metrics categories is complementary to my main focus of diagnosing the true relationship between the subtropical jet and Hadley Cell. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Relationship of Subtropical Jet and Hadley Cell in CMIP5 Model Output</title>
       <link>https://memenzel.github.io/project/cmip5/</link>
-      <pubDate>Fri, 05 Jun 2020 16:37:54 -0400</pubDate>
+      <pubDate>Wed, 24 Jun 2020 23:57:26 -0400</pubDate>
       <guid>https://memenzel.github.io/project/cmip5/</guid>
-      <description>&lt;p&gt;Current theory on atmospheric general circulation explains that the existence of the subtropical jet is due to the Hadley Cell&amp;rsquo;s conservation of angular moment. That is, as the upper branch of the Hadley Cell circulates from the equator to the subtropics, its radius to the axis of rotation of the Earth decreases thus the zonal flow in the circulation must increase to maintain angular momentum. In doing so, there is a maximum in upper tropospheric wind at the edge of the Hadley cell. However, analysis of the subtropical jet in output from the Coupled Model Intercomparison Project (CMIP5) do not support this theoretical explanation of the jet&amp;rsquo;s existance. Rather, the subtropical jet&amp;rsquo;s latitude does not covary with the Hadley Cell at all. This surprising result is discussed in greater detail in our GRL publication, &amp;ldquo;Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2.&amp;rdquo;&lt;/p&gt;
+      <description>&lt;p&gt;Current theory on atmospheric general circulation explains that the existence of the subtropical jet is due to the Hadley Cell’s conservation of angular moment. That is, as the upper branch of the Hadley Cell circulates from the equator to the subtropics, its radius to the axis of rotation of the Earth decreases thus the zonal flow in the circulation must increase to maintain angular momentum. In doing so, there is a maximum in upper tropospheric wind at the edge of the Hadley cell. However, analysis of the subtropical jet in output from the Coupled Model Intercomparison Project (CMIP5) do not support this theoretical explanation of the jet’s existance. Rather, the subtropical jet’s latitude does not covary with the Hadley Cell at all. This surprising result is discussed in greater detail in our GRL publication, “Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Tropical Expansion Metrics</title>
-      <link>https://memenzel.github.io/project/trop_metrics/</link>
-      <pubDate>Fri, 05 Jun 2020 16:37:31 -0400</pubDate>
-      <guid>https://memenzel.github.io/project/trop_metrics/</guid>
-      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these inquires is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between &amp;ldquo;lower&amp;rdquo; and &amp;ldquo;upper&amp;rdquo; tropospheric metrics. Investigating the disconnect between these metrics categories is complementary to my main focus of diagnosing the true relationship between the subtropical jet and Hadley Cell. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Direct Effects of CO2 Radiative Forcing on Ocean Heat Uptake</title>
-      <link>https://memenzel.github.io/project/ohu/</link>
-      <pubDate>Fri, 05 Jun 2020 16:37:00 -0400</pubDate>
-      <guid>https://memenzel.github.io/project/ohu/</guid>
-      <description>&lt;p&gt;Do the immediate changes of the atmosphere in response to instantaneous CO2 radiative forcing impact the ocean&amp;rsquo;s transient heat uptake?&lt;/p&gt;
+      <title>Subtropical Jet Behavior in Idealized Models</title>
+      <link>https://memenzel.github.io/project/ideal_atmos/</link>
+      <pubDate>Wed, 24 Jun 2020 23:56:08 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/ideal_atmos/</guid>
+      <description>&lt;p&gt;A useful tool to diagnose the processes that control certain aspects of the atmosphere is an idealized atmospheric model. Although there exists a heirarchy of complexity even for idealized models, the intention is to simplify the atmosphere enough to isolate specific processes, sometimes at the expense of realistic output. Ultimately we aim to use idealized models to constrain the dynamics of the subtropical jet and it’s relationship to the Hadley Cell. In order to do so, we must identify the necessary model processes to decouple the subtropical jet from the Hadley Cell, and thus replicate that which is shown in CMIP5 analysis. Preliminary results suggest that zonal variability, even in a dry atmosphere, is responsible for this disconnect.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://memenzel.github.io/post/</link>
       <atom:link href="https://memenzel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 16:55:54 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 23:49:18 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>JHU Teaching Academy</title>
-      <link>https://memenzel.github.io/post/academy/</link>
-      <pubDate>Fri, 05 Jun 2020 16:55:54 -0400</pubDate>
-      <guid>https://memenzel.github.io/post/academy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Guest Lectures</title>
       <link>https://memenzel.github.io/post/lectures/</link>
-      <pubDate>Fri, 05 Jun 2020 16:55:49 -0400</pubDate>
+      <pubDate>Wed, 24 Jun 2020 23:49:18 -0400</pubDate>
       <guid>https://memenzel.github.io/post/lectures/</guid>
       <description>&lt;p&gt;In the fall of 2019, I provided 2 weeks of guest lectures to Present and Future Climates, a joint undergraduate-graduate course. These lecutres covered Atmospheric General Circulation and Climate Variability. To view the lecture slides and notes, click the links above. Below is a detailed list of topics covered in each week.&lt;/p&gt;
 &lt;p&gt;Atmospheric General Circulation:&lt;/p&gt;
@@ -59,10 +51,18 @@
     <item>
       <title>Communicating Climate Science</title>
       <link>https://memenzel.github.io/post/course/</link>
-      <pubDate>Fri, 05 Jun 2020 16:48:26 -0400</pubDate>
+      <pubDate>Wed, 24 Jun 2020 23:42:15 -0400</pubDate>
       <guid>https://memenzel.github.io/post/course/</guid>
       <description>&lt;p&gt;Communicating Climate Science and will be taught to upper level undergraduate students in the fall of 2020. This course is a study of techniques used to effectively communicate scientific knowledge with a focus on climate science. This will be done with three overarching topics: reading and comprehending scientific papers, critically interpreting science news from the media, and communicating complex climate science to a general audience. View the full course proposal in the above link.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>JHU Teaching Academy</title>
+      <link>https://memenzel.github.io/post/academy/</link>
+      <pubDate>Wed, 24 Jun 2020 23:41:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/post/academy/</guid>
+      <description></description>
     </item>
     
   </channel>

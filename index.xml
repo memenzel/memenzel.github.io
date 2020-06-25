@@ -5,7 +5,7 @@
     <link>https://memenzel.github.io/</link>
       <atom:link href="https://memenzel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Molly Erin Menzel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 20:34:11 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 00:04:09 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Molly Erin Menzel</title>
@@ -13,73 +13,36 @@
     </image>
     
     <item>
-      <title>Example Page 1</title>
-      <link>https://memenzel.github.io/etc/courses_example/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://memenzel.github.io/etc/courses_example/example/example1/</guid>
-      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Tropical Expansion Metrics</title>
+      <link>https://memenzel.github.io/project/trop_metrics/</link>
+      <pubDate>Thu, 25 Jun 2020 00:04:09 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/trop_metrics/</guid>
+      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these inquires is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between “lower” and “upper” tropospheric metrics. Investigating the disconnect between these metrics categories is complementary to my main focus of diagnosing the true relationship between the subtropical jet and Hadley Cell. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page 2</title>
-      <link>https://memenzel.github.io/etc/courses_example/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://memenzel.github.io/etc/courses_example/example/example2/</guid>
-      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Relationship of Subtropical Jet and Hadley Cell in CMIP5 Model Output</title>
+      <link>https://memenzel.github.io/project/cmip5/</link>
+      <pubDate>Wed, 24 Jun 2020 23:57:26 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/cmip5/</guid>
+      <description>&lt;p&gt;Current theory on atmospheric general circulation explains that the existence of the subtropical jet is due to the Hadley Cell’s conservation of angular moment. That is, as the upper branch of the Hadley Cell circulates from the equator to the subtropics, its radius to the axis of rotation of the Earth decreases thus the zonal flow in the circulation must increase to maintain angular momentum. In doing so, there is a maximum in upper tropospheric wind at the edge of the Hadley cell. However, analysis of the subtropical jet in output from the Coupled Model Intercomparison Project (CMIP5) do not support this theoretical explanation of the jet’s existance. Rather, the subtropical jet’s latitude does not covary with the Hadley Cell at all. This surprising result is discussed in greater detail in our GRL publication, “Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Atmospheric General Circulation</title>
-      <link>https://memenzel.github.io/slides/atmos_gen_circ/</link>
-      <pubDate>Mon, 08 Jun 2020 20:34:11 -0400</pubDate>
-      <guid>https://memenzel.github.io/slides/atmos_gen_circ/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
-&lt;p&gt;TEST&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;slide-2&#34;&gt;Slide 2&lt;/h2&gt;
-&lt;p&gt;TEST&lt;/p&gt;
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <title>Subtropical Jet Behavior in Idealized Models</title>
+      <link>https://memenzel.github.io/project/ideal_atmos/</link>
+      <pubDate>Wed, 24 Jun 2020 23:56:08 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/ideal_atmos/</guid>
+      <description>&lt;p&gt;A useful tool to diagnose the processes that control certain aspects of the atmosphere is an idealized atmospheric model. Although there exists a heirarchy of complexity even for idealized models, the intention is to simplify the atmosphere enough to isolate specific processes, sometimes at the expense of realistic output. Ultimately we aim to use idealized models to constrain the dynamics of the subtropical jet and it’s relationship to the Hadley Cell. In order to do so, we must identify the necessary model processes to decouple the subtropical jet from the Hadley Cell, and thus replicate that which is shown in CMIP5 analysis. Preliminary results suggest that zonal variability, even in a dry atmosphere, is responsible for this disconnect.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>JHU Teaching Academy</title>
-      <link>https://memenzel.github.io/post/academy/</link>
-      <pubDate>Fri, 05 Jun 2020 16:55:54 -0400</pubDate>
-      <guid>https://memenzel.github.io/post/academy/</guid>
-      <description></description>
     </item>
     
     <item>
       <title>Guest Lectures</title>
       <link>https://memenzel.github.io/post/lectures/</link>
-      <pubDate>Fri, 05 Jun 2020 16:55:49 -0400</pubDate>
+      <pubDate>Wed, 24 Jun 2020 23:49:18 -0400</pubDate>
       <guid>https://memenzel.github.io/post/lectures/</guid>
       <description>&lt;p&gt;In the fall of 2019, I provided 2 weeks of guest lectures to Present and Future Climates, a joint undergraduate-graduate course. These lecutres covered Atmospheric General Circulation and Climate Variability. To view the lecture slides and notes, click the links above. Below is a detailed list of topics covered in each week.&lt;/p&gt;
 &lt;p&gt;Atmospheric General Circulation:&lt;/p&gt;
@@ -115,226 +78,64 @@
     <item>
       <title>Communicating Climate Science</title>
       <link>https://memenzel.github.io/post/course/</link>
-      <pubDate>Fri, 05 Jun 2020 16:48:26 -0400</pubDate>
+      <pubDate>Wed, 24 Jun 2020 23:42:15 -0400</pubDate>
       <guid>https://memenzel.github.io/post/course/</guid>
       <description>&lt;p&gt;Communicating Climate Science and will be taught to upper level undergraduate students in the fall of 2020. This course is a study of techniques used to effectively communicate scientific knowledge with a focus on climate science. This will be done with three overarching topics: reading and comprehending scientific papers, critically interpreting science news from the media, and communicating complex climate science to a general audience. View the full course proposal in the above link.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Subtropical Jet Behavior in Idealized Models</title>
-      <link>https://memenzel.github.io/project/ideal_atmos/</link>
-      <pubDate>Fri, 05 Jun 2020 16:38:21 -0400</pubDate>
-      <guid>https://memenzel.github.io/project/ideal_atmos/</guid>
-      <description>&lt;p&gt;A useful tool to diagnose the processes that control certain aspects of the atmosphere is an idealized atmospheric model. Although there exists a heirarchy of complexity even for idealized models, the intention is to simplify the atmosphere enough to isolate specific processes, sometimes at the expense of realistic output. Ultimately we aim to use idealized models to constrain the dynamics of the subtropical jet and it&amp;rsquo;s relationship to the Hadley Cell. In order to do so, we must identify the necessary model processes to decouple the subtropical jet from the Hadley Cell, and thus replicate that which is shown in CMIP5 analysis. Preliminary results suggest that zonal variability, even in a dry atmosphere, is responsible for this disconnect.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Relationship of Subtropical Jet and Hadley Cell in CMIP5 Model Output</title>
-      <link>https://memenzel.github.io/project/cmip5/</link>
-      <pubDate>Fri, 05 Jun 2020 16:37:54 -0400</pubDate>
-      <guid>https://memenzel.github.io/project/cmip5/</guid>
-      <description>&lt;p&gt;Current theory on atmospheric general circulation explains that the existence of the subtropical jet is due to the Hadley Cell&amp;rsquo;s conservation of angular moment. That is, as the upper branch of the Hadley Cell circulates from the equator to the subtropics, its radius to the axis of rotation of the Earth decreases thus the zonal flow in the circulation must increase to maintain angular momentum. In doing so, there is a maximum in upper tropospheric wind at the edge of the Hadley cell. However, analysis of the subtropical jet in output from the Coupled Model Intercomparison Project (CMIP5) do not support this theoretical explanation of the jet&amp;rsquo;s existance. Rather, the subtropical jet&amp;rsquo;s latitude does not covary with the Hadley Cell at all. This surprising result is discussed in greater detail in our GRL publication, &amp;ldquo;Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2.&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tropical Expansion Metrics</title>
-      <link>https://memenzel.github.io/project/trop_metrics/</link>
-      <pubDate>Fri, 05 Jun 2020 16:37:31 -0400</pubDate>
-      <guid>https://memenzel.github.io/project/trop_metrics/</guid>
-      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these inquires is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between &amp;ldquo;lower&amp;rdquo; and &amp;ldquo;upper&amp;rdquo; tropospheric metrics. Investigating the disconnect between these metrics categories is complementary to my main focus of diagnosing the true relationship between the subtropical jet and Hadley Cell. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Direct Effects of CO2 Radiative Forcing on Ocean Heat Uptake</title>
-      <link>https://memenzel.github.io/project/ohu/</link>
-      <pubDate>Fri, 05 Jun 2020 16:37:00 -0400</pubDate>
-      <guid>https://memenzel.github.io/project/ohu/</guid>
-      <description>&lt;p&gt;Do the immediate changes of the atmosphere in response to instantaneous CO2 radiative forcing impact the ocean&amp;rsquo;s transient heat uptake?&lt;/p&gt;
-</description>
+      <title>JHU Teaching Academy</title>
+      <link>https://memenzel.github.io/post/academy/</link>
+      <pubDate>Wed, 24 Jun 2020 23:41:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/post/academy/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Joint DynVarMIP/CMIP6 and SPARC DynVar &amp; SNAP Workshop</title>
-      <link>https://memenzel.github.io/talk/dynvarmip_2019/</link>
+      <link>https://memenzel.github.io/talk/dynvar_2019/</link>
       <pubDate>Tue, 22 Oct 2019 12:15:00 -0400</pubDate>
-      <guid>https://memenzel.github.io/talk/dynvarmip_2019/</guid>
+      <guid>https://memenzel.github.io/talk/dynvar_2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Annual JHU EPS Department Seminar</title>
-      <link>https://memenzel.github.io/talk/jhu_eps_f2019/</link>
-      <pubDate>Tue, 08 Oct 2019 12:00:00 -6000</pubDate>
-      <guid>https://memenzel.github.io/talk/jhu_eps_f2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics</title>
-      <link>https://memenzel.github.io/talk/aofd_2019/</link>
-      <pubDate>Mon, 24 Jun 2019 13:45:00 -1500</pubDate>
-      <guid>https://memenzel.github.io/talk/aofd_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Connecting Direct Effects of CO2 Radiative Forcing to Ocean Heat Uptake and Circulation</title>
-      <link>https://memenzel.github.io/publication/menzel_merlis_2019/</link>
-      <pubDate>Wed, 19 Jun 2019 16:54:10 -0400</pubDate>
-      <guid>https://memenzel.github.io/publication/menzel_merlis_2019/</guid>
+      <title>Annual JHU EPS Departmental Seminar</title>
+      <link>https://memenzel.github.io/talk/jhu_2019/</link>
+      <pubDate>Tue, 08 Oct 2019 12:00:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/jhu_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2</title>
       <link>https://memenzel.github.io/publication/menzel_etal_2019/</link>
-      <pubDate>Fri, 07 Jun 2019 16:47:48 -0400</pubDate>
+      <pubDate>Tue, 25 Jun 2019 23:11:34 -0400</pubDate>
       <guid>https://memenzel.github.io/publication/menzel_etal_2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>https://memenzel.github.io/etc/slides_example/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://memenzel.github.io/etc/slides_example/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;#In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;#Block math:&lt;/p&gt;
-&lt;p&gt;#$$
-#f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-#$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
+      <title>Connecting Direct Effects of CO2 Radiative Forcing to Ocean Heat Uptake and Circulation</title>
+      <link>https://memenzel.github.io/publication/menzel_merlis_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 23:02:11 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_merlis_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics</title>
+      <link>https://memenzel.github.io/talk/aofd_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 13:45:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/aofd_2019/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>AGU Fall Meeting 2018</title>
       <link>https://memenzel.github.io/talk/agu_2018/</link>
-      <pubDate>Fri, 14 Dec 2018 13:40:00 -0400</pubDate>
+      <pubDate>Tue, 18 Dec 2018 13:40:07 -0400</pubDate>
       <guid>https://memenzel.github.io/talk/agu_2018/</guid>
       <description></description>
     </item>
