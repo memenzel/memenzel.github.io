@@ -2,8 +2,8 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -16,39 +16,41 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "Subtropical Jet Behavior in Idealized Models"
+  content = "What are the necessary processes to decouple the subtropical jet from the Hadley Cell?"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.65  # Darken the image. Value in range 0-1.
 
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_label = "Read More"
+  cta_url = "project/ideal_atmos"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = "Subtropical Jet and Hadley Cell Relationship in CMIP5"
+  content = "Is the subtropical jet actually coupled to the Hadley Cell?"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "featured/cmip5.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.65  # Darken the image. Value in range 0-1.
+
+  cta_label = "Read More"
+  cta_url = "project/cmip5"
+
+[[item]]
+  title = "Tropical Expansion Metrics"
+  content = "How should we define tropical width?"
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "featured/metrics.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.65  # Darken the image. Value in range 0-1.
+
+  cta_label = "Read More"
+  cta_url = "project/trop_metrics"
+
 +++

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,28 +17,59 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Dean's Teaching Fellowship"
+  company = "Communicating Climate Science"
+  company_url = "post/course"
+  location = "Baltimore, MD"
+  date_start = "2020-09-15"
+  date_end = ""
+  description = "Recipient of a competitive teaching fellowship from Johns Hopkins University’s Krieger School of Arts and Sciences. This fellowship allows advanced PhD student to design and instruct their own course. The course I have proposed for Fall 2020 is titled 'Communicating Climate Science.'"
+
+[[experience]]
+  title = "Guest Lecturer"
+  company = "Present and Future Climates"
+  company_url = "post/lectures"
+  location = "Baltimore, MD"
+  date_start = "2019-09-15"
+  date_end = "2019-12-20"
+  description = "Provided 2 weeks of guest lectures to Present and Future Climates as the teaching assistant for the course."
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "AS.270.378/641 | Present and Future Climates"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Johns Hopkins University"
+  date_start = "2019-09-04"
+  date_end = "2019-12-20"
+  description = ""
+
+[[experience]]
+  title = "Completion of Teaching Institute"
+  company = "JHU Teaching Academy"
+  company_url = "post/academy"
+  location = "Baltimore, MD"
+  date_start = "2019-06-15"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "ATOC 215 | Oceans, Weather, and Climate"
+  company_url = ""
+  location = "McGill University"
+  date_start = "2017-01-04"
+  date_end = "2017-04-20"
+  description = ""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "ATOC 181 | Introduction to Atmospheric Science"
+  company_url = ""
+  location = "McGill University"
+  date_start = "2016-09-04"
+  date_end = "2016-12-20"
+  description = ""
 
 +++
