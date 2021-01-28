@@ -44,6 +44,8 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Video
+  url: https://ams.confex.com/ams/22FLUID/videogateway.cgi/id/55089?recordingid=55089
+- name: Program
   url: https://ams.confex.com/ams/22FLUID/meetingapp.cgi/Paper/358861
 #   icon_pack: fab
 #   icon: twitter

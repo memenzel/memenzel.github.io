@@ -45,6 +45,8 @@ image:
 links:
 - name: Program
   url: https://www.sparc-climate.org/wp-content/uploads/sites/5/2019/04/DynVarMIP2019-programFINAL.pdf
+- name: Slides
+  url: talk_slides.pdf
 #   icon_pack: fab
 #   icon: twitter
 

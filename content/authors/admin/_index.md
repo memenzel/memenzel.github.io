@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/MollyMenzel
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=BgsMsXUAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=BgsMsXUAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/memenzel

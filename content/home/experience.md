@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2020-09-15"
   date_end = ""
-  description = "Recipient of a competitive teaching fellowship from Johns Hopkins University’s Krieger School of Arts and Sciences. This fellowship allows advanced PhD student to design and instruct their own course. The course I have proposed for Fall 2020 is titled 'Communicating Climate Science.'"
+  description = "Recipient of a competitive teaching fellowship from Johns Hopkins University’s Krieger School of Arts and Sciences. This fellowship allows advanced PhD student to design and instruct their own course. The course I taught in Fall 2020 is titled 'Communicating Climate Science.'"
 
 [[experience]]
   title = "Guest Lecturer"

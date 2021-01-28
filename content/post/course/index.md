@@ -21,8 +21,8 @@ image:
   preview_only: false
 
 links:
-- name: Course Proposal
-  url: course_proposal.pdf
+- name: Course Syllabus
+  url: course_syllabus.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -32,4 +32,4 @@ links:
 projects: []
 ---
 
-Communicating Climate Science and will be taught to upper level undergraduate students in the fall of 2020. This course is a study of techniques used to effectively communicate scientific knowledge with a focus on climate science. This will be done with three overarching topics: reading and comprehending scientific papers, critically interpreting science news from the media, and communicating complex climate science to a general audience. View the full course proposal in the above link.
+Communicating Climate Science and was taught to upper level undergraduate students in the fall of 2020. This course is a study of techniques used to effectively communicate scientific knowledge with a focus on climate science. This is done with three overarching topics: reading and comprehending scientific papers, critically interpreting science news from the media, and communicating complex climate science to a general audience. View the full course syllabus in the above link.

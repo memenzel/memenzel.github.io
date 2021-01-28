@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Most recent presentation to our interdisciplinary department highlights the broader motivation behind my current work.
+summary: Earlier, in-person presentation to our interdisciplinary department.
 abstract:
 
 # Talk start and end times.

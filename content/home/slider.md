@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "200"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -23,7 +23,8 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "featured/ideal_crop.jpg"  # Image path relative to your `static/media/` folder.
+#  overlay_
   overlay_filter = 0.65  # Darken the image. Value in range 0-1.
 
   cta_label = "Read More"
@@ -35,7 +36,7 @@ height = ""
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "featured/cmip5.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "featured/cmip5_crop.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.65  # Darken the image. Value in range 0-1.
 
   cta_label = "Read More"
@@ -47,7 +48,7 @@ height = ""
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "featured/metrics.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "featured/metrics_crop.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.65  # Darken the image. Value in range 0-1.
 
   cta_label = "Read More"

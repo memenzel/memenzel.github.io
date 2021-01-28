@@ -23,7 +23,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Waugh et al. 2019
+- name: Waugh et al. 2018
   url: https://doi.org/10.1175/JCLI-D-18-0108.1
 - name: ISSI TWIST
   url: https://www.issibern.ch/teams/twist/

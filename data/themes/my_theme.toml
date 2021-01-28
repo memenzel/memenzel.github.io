@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Minimal"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1C2833"
+
+# Menu
+menu_primary = "#0B5345"
+menu_text = "#CCD1D1"
+menu_text_active = "#D4EFDF"
+menu_title = "#F2F4F4"
+
+# Home sections
+home_section_odd = "rgb(229,232,232)"
+home_section_even = "rgb(204,209,209)"

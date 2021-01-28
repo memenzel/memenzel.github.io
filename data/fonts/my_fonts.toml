@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Playfair+Display:ital,wght@0,600;0,800;1,600|Roboto:300,300italic|Roboto+Mono"
+
+# Font families
+heading_font = "Playfair Display"
+body_font = "Roboto"
+nav_font = "Playfair Display"
+mono_font = "Roboto Mono"
