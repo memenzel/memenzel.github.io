@@ -5,12 +5,28 @@
     <link>https://memenzel.github.io/author/molly-e-menzel/</link>
       <atom:link href="https://memenzel.github.io/author/molly-e-menzel/index.xml" rel="self" type="application/rss+xml" />
     <description>Molly E Menzel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 12:15:00 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jan 2021 12:00:00 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Molly E Menzel</title>
       <link>https://memenzel.github.io/author/molly-e-menzel/</link>
     </image>
+    
+    <item>
+      <title>Annual JHU EPS Departmental Seminar</title>
+      <link>https://memenzel.github.io/talk/jhu_2021/</link>
+      <pubDate>Tue, 26 Jan 2021 12:00:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/jhu_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGU Fall Meeting 2020</title>
+      <link>https://memenzel.github.io/talk/agu_2020/</link>
+      <pubDate>Wed, 16 Dec 2020 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/agu_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Joint DynVarMIP/CMIP6 and SPARC DynVar &amp; SNAP Workshop</title>
