@@ -5,12 +5,20 @@
     <link>https://memenzel.github.io/author/molly-e-menzel/</link>
       <atom:link href="https://memenzel.github.io/author/molly-e-menzel/index.xml" rel="self" type="application/rss+xml" />
     <description>Molly E Menzel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jan 2021 12:00:00 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 12:15:00 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Molly E Menzel</title>
       <link>https://memenzel.github.io/author/molly-e-menzel/</link>
     </image>
+    
+    <item>
+      <title>Invited Talk at University of Exeter</title>
+      <link>https://memenzel.github.io/talk/exeter_2021/</link>
+      <pubDate>Thu, 28 Jan 2021 12:15:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/exeter_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Annual JHU EPS Departmental Seminar</title>

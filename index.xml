@@ -5,12 +5,20 @@
     <link>https://memenzel.github.io/</link>
       <atom:link href="https://memenzel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Molly Erin Menzel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jan 2021 12:00:00 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 12:15:00 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Molly Erin Menzel</title>
       <link>https://memenzel.github.io/</link>
     </image>
+    
+    <item>
+      <title>Invited Talk at University of Exeter</title>
+      <link>https://memenzel.github.io/talk/exeter_2021/</link>
+      <pubDate>Thu, 28 Jan 2021 12:15:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/exeter_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Annual JHU EPS Departmental Seminar</title>
@@ -29,11 +37,11 @@
     </item>
     
     <item>
-      <title>Tropical Expansion Metrics</title>
-      <link>https://memenzel.github.io/project/trop_metrics/</link>
+      <title>Connections between the Lower Stratosphere and Tropospheric Circulation</title>
+      <link>https://memenzel.github.io/project/utls_connect/</link>
       <pubDate>Thu, 25 Jun 2020 00:04:09 -0400</pubDate>
-      <guid>https://memenzel.github.io/project/trop_metrics/</guid>
-      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these inquires is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between “lower” and “upper” tropospheric metrics. Investigating the disconnect between these metrics categories is complementary to my main focus of diagnosing the true relationship between the subtropical jet and Hadley Cell. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
+      <guid>https://memenzel.github.io/project/utls_connect/</guid>
+      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these enquiries is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between &amp;ldquo;lower&amp;rdquo; and &amp;ldquo;upper&amp;rdquo; tropospheric metrics. It is suggested that the upper metrics are more closely related to stratospheric circulation whereas the lower metrics are representative of tropospheric circulation. Elucidating the dynamical relationship between the subtropical jet and Hadley Cell will shed light on this relationship between the lower stratosphere and troposphere. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
 </description>
     </item>
     
