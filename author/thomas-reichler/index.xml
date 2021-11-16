@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Reichler | Molly Erin Menzel</title>
+    <link>https://memenzel.github.io/author/thomas-reichler/</link>
+      <atom:link href="https://memenzel.github.io/author/thomas-reichler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Reichler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 23:11:34 -0400</lastBuildDate>
+    <image>
+      <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Reichler</title>
+      <link>https://memenzel.github.io/author/thomas-reichler/</link>
+    </image>
+    
+    <item>
+      <title>A Refined View of the Subtropical Jet and Hadley Cell Coupling</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_submitted/</link>
+      <pubDate>Mon, 25 Oct 2021 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_submitted/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
