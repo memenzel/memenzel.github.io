@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Molly Erin Menzel</title>
+    <title>Talks &amp; Posters | Molly Erin Menzel</title>
     <link>https://memenzel.github.io/talk/</link>
       <atom:link href="https://memenzel.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 12:15:00 -0400</lastBuildDate>
+    <description>Talks &amp; Posters</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 13:40:07 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks &amp; Posters</title>
       <link>https://memenzel.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>SPARC General Assembly 2022</title>
+      <link>https://memenzel.github.io/talk/sparc_2022/</link>
+      <pubDate>Mon, 24 Oct 2022 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/sparc_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 23rd Conference on Atmospheric and Oceanic Fluid Dynamics</title>
+      <link>https://memenzel.github.io/talk/aofd_2022/</link>
+      <pubDate>Fri, 17 Jun 2022 13:45:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/aofd_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Invited Talk at University of Exeter</title>

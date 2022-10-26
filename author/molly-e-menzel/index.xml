@@ -5,7 +5,7 @@
     <link>https://memenzel.github.io/author/molly-e-menzel/</link>
       <atom:link href="https://memenzel.github.io/author/molly-e-menzel/index.xml" rel="self" type="application/rss+xml" />
     <description>Molly E Menzel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 23:11:34 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 23:11:34 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Molly E Menzel</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>Diagnosing behavior of the Hadley Cell and subtropical jet in idealized atmospheric models</title>
+      <title>Connections between upper tropospheric and lower stratospheric circulation responses to increased CO2 (in preparation)</title>
       <link>https://memenzel.github.io/publication/menzel_etal_submitted/</link>
-      <pubDate>Mon, 25 Oct 2021 23:11:34 -0400</pubDate>
+      <pubDate>Tue, 25 Oct 2022 23:11:34 -0400</pubDate>
       <guid>https://memenzel.github.io/publication/menzel_etal_submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPARC General Assembly 2022</title>
+      <link>https://memenzel.github.io/talk/sparc_2022/</link>
+      <pubDate>Mon, 24 Oct 2022 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/sparc_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 23rd Conference on Atmospheric and Oceanic Fluid Dynamics</title>
+      <link>https://memenzel.github.io/talk/aofd_2022/</link>
+      <pubDate>Fri, 17 Jun 2022 13:45:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/aofd_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing behavior of the Hadley Cell and subtropical jet in idealized atmospheric models (in revision)</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_revision/</link>
+      <pubDate>Mon, 25 Oct 2021 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_revision/</guid>
       <description></description>
     </item>
     
