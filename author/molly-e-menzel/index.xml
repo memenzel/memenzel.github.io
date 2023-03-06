@@ -5,12 +5,20 @@
     <link>https://memenzel.github.io/author/molly-e-menzel/</link>
       <atom:link href="https://memenzel.github.io/author/molly-e-menzel/index.xml" rel="self" type="application/rss+xml" />
     <description>Molly E Menzel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 23:11:34 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 11:30:00 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Molly E Menzel</title>
       <link>https://memenzel.github.io/author/molly-e-menzel/</link>
     </image>
+    
+    <item>
+      <title>AMS 103rd Annual Meeting, 36th Conference on Climate Variability and Change</title>
+      <link>https://memenzel.github.io/talk/ams_2023/</link>
+      <pubDate>Thu, 12 Jan 2023 11:30:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/ams_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Connections between upper tropospheric and lower stratospheric circulation responses to increased CO2 (in press)</title>
@@ -41,6 +49,14 @@
       <link>https://memenzel.github.io/talk/jhu_defense/</link>
       <pubDate>Tue, 31 May 2022 12:00:00 -0400</pubDate>
       <guid>https://memenzel.github.io/talk/jhu_defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing behavior of the Hadley Cell and subtropical jet in idealized atmospheric models (in revision)</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_ideal/</link>
+      <pubDate>Mon, 25 Oct 2021 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_ideal/</guid>
       <description></description>
     </item>
     
