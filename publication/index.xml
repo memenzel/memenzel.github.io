@@ -5,7 +5,7 @@
     <link>https://memenzel.github.io/publication/</link>
       <atom:link href="https://memenzel.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 23:11:34 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 23:11:34 -0400</lastBuildDate>
     <image>
       <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Connections between upper tropospheric and lower stratospheric circulation responses to increased CO2</title>
-      <link>https://memenzel.github.io/publication/menzel_etal_2023_strat-trop/</link>
-      <pubDate>Tue, 25 Oct 2022 23:11:34 -0400</pubDate>
-      <guid>https://memenzel.github.io/publication/menzel_etal_2023_strat-trop/</guid>
+      <title>Replicating the Hadley Cell and subtropical jet disconnect in idealized atmospheric models (submitted)</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_ideal/</link>
+      <pubDate>Wed, 25 Oct 2023 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_ideal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Replicating the Hadley Cell and subtropical jet disconnect in idealized atmospheric models (in revision)</title>
-      <link>https://memenzel.github.io/publication/menzel_etal_ideal/</link>
-      <pubDate>Mon, 25 Oct 2021 23:11:34 -0400</pubDate>
-      <guid>https://memenzel.github.io/publication/menzel_etal_ideal/</guid>
+      <title>Connections between upper tropospheric and lower stratospheric circulation responses to increased CO2</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_2023_strat-trop/</link>
+      <pubDate>Tue, 25 Oct 2022 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_2023_strat-trop/</guid>
       <description></description>
     </item>
     
