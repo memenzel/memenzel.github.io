@@ -1,5 +1,10 @@
 #!/bin/sh
 
+# If receiving errors about hugo... try:
+# hugo mod clean
+# hugo mod get -u ./... (may not be necessary)
+# hugo server
+
 # If a command fails then the deploy stops
 set -e
 

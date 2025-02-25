@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Teaching Experience"
 subtitle = ""
@@ -19,13 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Dean's Prize Fellowship"
+  company = "Freshman Seminar: Communicating Climate Science"
+  company_url = "post/fresh_seminar"
+  location = "Baltimore, MD"
+  date_start = "2021-09-15"
+  date_end = "2021-12-10"
+  description = "Recipient of a prize teaching fellowship from Johns Hopkins University's Krieger School of Arts and Sciences to reteach my previous course as a freshman seminar in Fall 2021."
+
+[[experience]]
   title = "Dean's Teaching Fellowship"
   company = "Communicating Climate Science"
   company_url = "post/course"
   location = "Baltimore, MD"
   date_start = "2020-09-15"
-  date_end = ""
-  description = "Recipient of a competitive teaching fellowship from Johns Hopkins University’s Krieger School of Arts and Sciences. This fellowship allows advanced PhD student to design and instruct their own course. The course I taught in Fall 2020 is titled 'Communicating Climate Science.'"
+  date_end = "2020-12-10"
+  description = "Recipient of a competitive teaching fellowship from Johns Hopkins University’s Krieger School of Arts and Sciences. This fellowship allows advanced PhD student s to design and instruct their own course. The course I taught in Fall 2020 is titled 'Communicating Climate Science.'"
 
 [[experience]]
   title = "Guest Lecturer"
@@ -46,12 +55,12 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Completion of Teaching Institute"
+  title = "Completion of Teaching Academy"
   company = "JHU Teaching Academy"
   company_url = "post/academy"
   location = "Baltimore, MD"
   date_start = "2019-06-15"
-  date_end = ""
+  date_end = "2021-12-10"
   description = ""
 
 [[experience]]

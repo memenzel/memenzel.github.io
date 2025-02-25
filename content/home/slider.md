@@ -23,7 +23,7 @@ height = "200"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "featured/ideal_crop.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "featured/ideal.jpg"  # Image path relative to your `static/media/` folder.
 #  overlay_
   overlay_filter = 0.65  # Darken the image. Value in range 0-1.
 
@@ -43,8 +43,8 @@ height = "200"
   cta_url = "project/cmip5"
 
 [[item]]
-  title = "Tropical Expansion Metrics"
-  content = "How should we define tropical width?"
+  title = "Connections between the Lower Stratosphere and Tropospheric Circulation"
+  content = "How does tropical tropospheric circulation impact the lower stratosphere and vice versa?"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -52,6 +52,6 @@ height = "200"
   overlay_filter = 0.65  # Darken the image. Value in range 0-1.
 
   cta_label = "Read More"
-  cta_url = "project/trop_metrics"
+  cta_url = "project/utls_connect"
 
 +++

@@ -4,18 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Presentations"
-  url = "#talks"
-  weight = 20
-
-[[main]]
   name = "Publications"
   url = "#publications"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Teaching"
   url = "#experience"
+  weight = 30
+
+[[main]]
+  name = "Presentations"
+  url = "#talks"
   weight = 40
 
 [[main]]
@@ -27,5 +27,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "files/cv.pdf"
+  url = "files/cv_2024.pdf"
   weight = 50

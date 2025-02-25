@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Preliminary results from CMIP5 analysis displayed at AGU in poster presentation.
+summary: Preliminary work looking at the Hadley Cell and subtropical jet disconnect in idealized models displayed at the virtual AGU in poster presentation.
 abstract:
 
 # Talk start and end times.
