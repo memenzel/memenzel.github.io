@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Molly Erin Menzel</title>
+    <link>https://memenzel.github.io/slides/</link>
+      <atom:link href="https://memenzel.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 20:34:11 -0400</lastBuildDate>
+    <item>
+      <title>Atmospheric General Circulation</title>
+      <link>https://memenzel.github.io/slides/atmos_gen_circ/</link>
+      <pubDate>Mon, 08 Jun 2020 20:34:11 -0400</pubDate>
+      <guid>https://memenzel.github.io/slides/atmos_gen_circ/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
+&lt;p&gt;TEST&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-2&#34;&gt;Slide 2&lt;/h2&gt;
+&lt;p&gt;TEST&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

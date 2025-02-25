@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Molly Erin Menzel</title>
+    <link>https://memenzel.github.io/project/</link>
+      <atom:link href="https://memenzel.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 00:04:09 -0400</lastBuildDate>
+    <image>
+      <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://memenzel.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Connections between the Lower Stratosphere and Tropospheric Circulation</title>
+      <link>https://memenzel.github.io/project/utls_connect/</link>
+      <pubDate>Thu, 25 Jun 2020 00:04:09 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/utls_connect/</guid>
+      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these enquiries is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between &amp;ldquo;lower&amp;rdquo; and &amp;ldquo;upper&amp;rdquo; tropospheric metrics. It is suggested that the upper metrics are more closely related to stratospheric circulation whereas the lower metrics are representative of tropospheric circulation. Elucidating the dynamical relationship between the subtropical jet and Hadley Cell will shed light on this relationship between the lower stratosphere and troposphere. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relationship of Subtropical Jet and Hadley Cell in CMIP5 Model Output</title>
+      <link>https://memenzel.github.io/project/cmip5/</link>
+      <pubDate>Wed, 24 Jun 2020 23:57:26 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/cmip5/</guid>
+      <description>&lt;p&gt;Current theory on atmospheric general circulation explains that the existence of the subtropical jet is due to the Hadley Cell’s conservation of angular moment. That is, as the upper branch of the Hadley Cell circulates from the equator to the subtropics, its radius to the axis of rotation of the Earth decreases thus the zonal flow in the circulation must increase to maintain angular momentum. In doing so, there is a maximum in upper tropospheric wind at the edge of the Hadley cell. However, analysis of the subtropical jet in output from the Coupled Model Intercomparison Project (CMIP5) do not support this theoretical explanation of the jet’s existance. Rather, the subtropical jet’s latitude does not covary with the Hadley Cell at all. This surprising result is discussed in greater detail in our GRL publication, “Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2.&amp;quot;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subtropical Jet Behavior in Idealized Models</title>
+      <link>https://memenzel.github.io/project/ideal_atmos/</link>
+      <pubDate>Wed, 24 Jun 2020 23:56:08 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/ideal_atmos/</guid>
+      <description>&lt;p&gt;A useful tool to diagnose the processes that control certain aspects of the atmosphere is an idealized atmospheric model. Although there exists a heirarchy of complexity even for idealized models, the intention is to simplify the atmosphere enough to isolate specific processes, sometimes at the expense of realistic output. Ultimately we aim to use idealized models to constrain the dynamics of the subtropical jet and it’s relationship to the Hadley Cell. In order to do so, we must identify the necessary model processes to decouple the subtropical jet from the Hadley Cell, and thus replicate that which is shown in CMIP5 analysis. Preliminary results suggest that an accurate basic state, particularly accuracy of meridional temperature gradients and upper level zonal winds in the tropics, is a requisite for this disconnect.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

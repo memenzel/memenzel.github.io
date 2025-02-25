@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molly Erin Menzel</title>
+    <link>https://memenzel.github.io/</link>
+      <atom:link href="https://memenzel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molly Erin Menzel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 23:11:34 -0400</lastBuildDate>
+    <image>
+      <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
+      <title>Molly Erin Menzel</title>
+      <link>https://memenzel.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Replicating the Hadley Cell and subtropical jet disconnect in idealized atmospheric models (submitted)</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_ideal/</link>
+      <pubDate>Wed, 25 Oct 2023 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_ideal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 103rd Annual Meeting, 36th Conference on Climate Variability and Change</title>
+      <link>https://memenzel.github.io/talk/ams_2023/</link>
+      <pubDate>Thu, 12 Jan 2023 11:30:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/ams_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connections between upper tropospheric and lower stratospheric circulation responses to increased CO2</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_2023_strat-trop/</link>
+      <pubDate>Tue, 25 Oct 2022 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_2023_strat-trop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPARC General Assembly 2022</title>
+      <link>https://memenzel.github.io/talk/sparc_2022/</link>
+      <pubDate>Mon, 24 Oct 2022 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/sparc_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 23rd Conference on Atmospheric and Oceanic Fluid Dynamics</title>
+      <link>https://memenzel.github.io/talk/aofd_2022/</link>
+      <pubDate>Fri, 17 Jun 2022 13:45:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/aofd_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JHU EPS Thesis Defense</title>
+      <link>https://memenzel.github.io/talk/jhu_defense/</link>
+      <pubDate>Tue, 31 May 2022 12:00:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/jhu_defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freshman Seminar: Communicating Climate Science</title>
+      <link>https://memenzel.github.io/post/fresh_seminar/</link>
+      <pubDate>Wed, 01 Sep 2021 23:42:15 -0400</pubDate>
+      <guid>https://memenzel.github.io/post/fresh_seminar/</guid>
+      <description>&lt;p&gt;Communicating Climate Science was taught to upper level undergraduate students in the fall of 2020 and is being taught as a freshmen seminar in the fall of 2021. This course is a study of techniques used to effectively communicate scientific knowledge with a focus on climate science. This is done with three overarching topics: reading and comprehending scientific papers, critically interpreting science news from the media, and communicating complex climate science to a general audience. View the full course syllabus in the above link.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited Talk at University of Exeter</title>
+      <link>https://memenzel.github.io/talk/exeter_2021/</link>
+      <pubDate>Thu, 28 Jan 2021 12:15:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/exeter_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annual JHU EPS Departmental Seminar</title>
+      <link>https://memenzel.github.io/talk/jhu_2021/</link>
+      <pubDate>Tue, 26 Jan 2021 12:00:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/jhu_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGU Fall Meeting 2020</title>
+      <link>https://memenzel.github.io/talk/agu_2020/</link>
+      <pubDate>Wed, 16 Dec 2020 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/agu_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connections between the Lower Stratosphere and Tropospheric Circulation</title>
+      <link>https://memenzel.github.io/project/utls_connect/</link>
+      <pubDate>Thu, 25 Jun 2020 00:04:09 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/utls_connect/</guid>
+      <description>&lt;p&gt;Lately there has been great interest in determining whether or not the tropics have been and will continue to expand with rising global mean surface temperatures. One difficulty in constraining the answer to these enquiries is the wide range of metrics researchers use to define the edge of the Tropics. A recent publication (linked above) highlights the discrepancies between the many metrics and explains how those discrepancies have led to differing conclusions on the tropical expansion. Particularly there is a disconnect between &amp;ldquo;lower&amp;rdquo; and &amp;ldquo;upper&amp;rdquo; tropospheric metrics. It is suggested that the upper metrics are more closely related to stratospheric circulation whereas the lower metrics are representative of tropospheric circulation. Elucidating the dynamical relationship between the subtropical jet and Hadley Cell will shed light on this relationship between the lower stratosphere and troposphere. This work is associated with the ISSI TWIST collaboration of which I was selected as 1 of 2 young scientists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relationship of Subtropical Jet and Hadley Cell in CMIP5 Model Output</title>
+      <link>https://memenzel.github.io/project/cmip5/</link>
+      <pubDate>Wed, 24 Jun 2020 23:57:26 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/cmip5/</guid>
+      <description>&lt;p&gt;Current theory on atmospheric general circulation explains that the existence of the subtropical jet is due to the Hadley Cell’s conservation of angular moment. That is, as the upper branch of the Hadley Cell circulates from the equator to the subtropics, its radius to the axis of rotation of the Earth decreases thus the zonal flow in the circulation must increase to maintain angular momentum. In doing so, there is a maximum in upper tropospheric wind at the edge of the Hadley cell. However, analysis of the subtropical jet in output from the Coupled Model Intercomparison Project (CMIP5) do not support this theoretical explanation of the jet’s existance. Rather, the subtropical jet’s latitude does not covary with the Hadley Cell at all. This surprising result is discussed in greater detail in our GRL publication, “Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2.&amp;quot;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subtropical Jet Behavior in Idealized Models</title>
+      <link>https://memenzel.github.io/project/ideal_atmos/</link>
+      <pubDate>Wed, 24 Jun 2020 23:56:08 -0400</pubDate>
+      <guid>https://memenzel.github.io/project/ideal_atmos/</guid>
+      <description>&lt;p&gt;A useful tool to diagnose the processes that control certain aspects of the atmosphere is an idealized atmospheric model. Although there exists a heirarchy of complexity even for idealized models, the intention is to simplify the atmosphere enough to isolate specific processes, sometimes at the expense of realistic output. Ultimately we aim to use idealized models to constrain the dynamics of the subtropical jet and it’s relationship to the Hadley Cell. In order to do so, we must identify the necessary model processes to decouple the subtropical jet from the Hadley Cell, and thus replicate that which is shown in CMIP5 analysis. Preliminary results suggest that an accurate basic state, particularly accuracy of meridional temperature gradients and upper level zonal winds in the tropics, is a requisite for this disconnect.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guest Lectures</title>
+      <link>https://memenzel.github.io/post/lectures/</link>
+      <pubDate>Wed, 24 Jun 2020 23:49:18 -0400</pubDate>
+      <guid>https://memenzel.github.io/post/lectures/</guid>
+      <description>&lt;p&gt;In the fall of 2019, I provided 2 weeks of guest lectures to Present and Future Climates, a joint undergraduate-graduate course. These lecutres covered Atmospheric General Circulation and Climate Variability. To view the lecture slides and notes, click the links above. Below is a detailed list of topics covered in each week.&lt;/p&gt;
+&lt;p&gt;Atmospheric General Circulation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zonal-mean solar insulation&lt;/li&gt;
+&lt;li&gt;Hot-plate circulation&lt;/li&gt;
+&lt;li&gt;3 cell structure of the atmosphere&lt;/li&gt;
+&lt;li&gt;Conservation of angular momentum&lt;/li&gt;
+&lt;li&gt;Coriolis force&lt;/li&gt;
+&lt;li&gt;Hydrological Pattern&lt;/li&gt;
+&lt;li&gt;3D momentum equation&lt;/li&gt;
+&lt;li&gt;Thermal wind balance&lt;/li&gt;
+&lt;li&gt;Meridional energy transport&lt;/li&gt;
+&lt;li&gt;Stationary and transient eddies&lt;/li&gt;
+&lt;li&gt;Baroclinic instability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Climate Variability:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Forced vs internal variability&lt;/li&gt;
+&lt;li&gt;Teleconnections&lt;/li&gt;
+&lt;li&gt;Variability timescales&lt;/li&gt;
+&lt;li&gt;Walker Circulation&lt;/li&gt;
+&lt;li&gt;El Nino Southern Oscillation&lt;/li&gt;
+&lt;li&gt;North Atlantic Oscillation&lt;/li&gt;
+&lt;li&gt;Southern Annular Mode&lt;/li&gt;
+&lt;li&gt;Pacific Decadal Oscillation&lt;/li&gt;
+&lt;li&gt;Atlantic Meridional Oscillation&lt;/li&gt;
+&lt;li&gt;Madden-Julian Oscillation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Communicating Climate Science</title>
+      <link>https://memenzel.github.io/post/course/</link>
+      <pubDate>Wed, 24 Jun 2020 23:42:15 -0400</pubDate>
+      <guid>https://memenzel.github.io/post/course/</guid>
+      <description>&lt;p&gt;Communicating Climate Science was taught to upper level undergraduate students in the fall of 2020 and will be taught as a freshmen seminar in the fall of 2021. This course is a study of techniques used to effectively communicate scientific knowledge with a focus on climate science. This is done with three overarching topics: reading and comprehending scientific papers, critically interpreting science news from the media, and communicating complex climate science to a general audience. View the full course syllabus in the above link.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JHU Teaching Academy</title>
+      <link>https://memenzel.github.io/post/academy/</link>
+      <pubDate>Wed, 24 Jun 2020 23:41:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/post/academy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint DynVarMIP/CMIP6 and SPARC DynVar &amp; SNAP Workshop</title>
+      <link>https://memenzel.github.io/talk/dynvar_2019/</link>
+      <pubDate>Tue, 22 Oct 2019 12:15:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/dynvar_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annual JHU EPS Departmental Seminar</title>
+      <link>https://memenzel.github.io/talk/jhu_2019/</link>
+      <pubDate>Tue, 08 Oct 2019 12:00:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/jhu_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_2019/</link>
+      <pubDate>Tue, 25 Jun 2019 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting Direct Effects of CO2 Radiative Forcing to Ocean Heat Uptake and Circulation</title>
+      <link>https://memenzel.github.io/publication/menzel_merlis_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 23:02:11 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_merlis_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics</title>
+      <link>https://memenzel.github.io/talk/aofd_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 13:45:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/aofd_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGU Fall Meeting 2018</title>
+      <link>https://memenzel.github.io/talk/agu_2018/</link>
+      <pubDate>Tue, 18 Dec 2018 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/agu_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

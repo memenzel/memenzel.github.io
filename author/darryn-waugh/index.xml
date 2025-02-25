@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darryn Waugh | Molly Erin Menzel</title>
+    <link>https://memenzel.github.io/author/darryn-waugh/</link>
+      <atom:link href="https://memenzel.github.io/author/darryn-waugh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Darryn Waugh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 23:11:34 -0400</lastBuildDate>
+    <image>
+      <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
+      <title>Darryn Waugh</title>
+      <link>https://memenzel.github.io/author/darryn-waugh/</link>
+    </image>
+    
+    <item>
+      <title>Replicating the Hadley Cell and subtropical jet disconnect in idealized atmospheric models (submitted)</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_ideal/</link>
+      <pubDate>Wed, 25 Oct 2023 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_ideal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 103rd Annual Meeting, 36th Conference on Climate Variability and Change</title>
+      <link>https://memenzel.github.io/talk/ams_2023/</link>
+      <pubDate>Thu, 12 Jan 2023 11:30:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/ams_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connections between upper tropospheric and lower stratospheric circulation responses to increased CO2</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_2023_strat-trop/</link>
+      <pubDate>Tue, 25 Oct 2022 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_2023_strat-trop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPARC General Assembly 2022</title>
+      <link>https://memenzel.github.io/talk/sparc_2022/</link>
+      <pubDate>Mon, 24 Oct 2022 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/sparc_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 23rd Conference on Atmospheric and Oceanic Fluid Dynamics</title>
+      <link>https://memenzel.github.io/talk/aofd_2022/</link>
+      <pubDate>Fri, 17 Jun 2022 13:45:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/aofd_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Talk at University of Exeter</title>
+      <link>https://memenzel.github.io/talk/exeter_2021/</link>
+      <pubDate>Thu, 28 Jan 2021 12:15:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/exeter_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGU Fall Meeting 2020</title>
+      <link>https://memenzel.github.io/talk/agu_2020/</link>
+      <pubDate>Wed, 16 Dec 2020 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/agu_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint DynVarMIP/CMIP6 and SPARC DynVar &amp; SNAP Workshop</title>
+      <link>https://memenzel.github.io/talk/dynvar_2019/</link>
+      <pubDate>Tue, 22 Oct 2019 12:15:00 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/dynvar_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disconnect Between Hadley Cell and Subtropical Jet Variability and Response to Increased CO2</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_2019/</link>
+      <pubDate>Tue, 25 Jun 2019 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics</title>
+      <link>https://memenzel.github.io/talk/aofd_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 13:45:29 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/aofd_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGU Fall Meeting 2018</title>
+      <link>https://memenzel.github.io/talk/agu_2018/</link>
+      <pubDate>Tue, 18 Dec 2018 13:40:07 -0400</pubDate>
+      <guid>https://memenzel.github.io/talk/agu_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timothy M Merlis | Molly Erin Menzel</title>
+    <link>https://memenzel.github.io/author/timothy-m-merlis/</link>
+      <atom:link href="https://memenzel.github.io/author/timothy-m-merlis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Timothy M Merlis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 23:02:11 -0400</lastBuildDate>
+    <image>
+      <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
+      <title>Timothy M Merlis</title>
+      <link>https://memenzel.github.io/author/timothy-m-merlis/</link>
+    </image>
+    
+    <item>
+      <title>Connecting Direct Effects of CO2 Radiative Forcing to Ocean Heat Uptake and Circulation</title>
+      <link>https://memenzel.github.io/publication/menzel_merlis_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 23:02:11 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_merlis_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

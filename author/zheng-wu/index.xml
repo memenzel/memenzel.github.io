@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheng Wu | Molly Erin Menzel</title>
+    <link>https://memenzel.github.io/author/zheng-wu/</link>
+      <atom:link href="https://memenzel.github.io/author/zheng-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zheng Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 23:11:34 -0400</lastBuildDate>
+    <image>
+      <url>https://memenzel.github.io/images/icon_huc110e6d0f656e5156915ce070878543e_52228_512x512_fill_lanczos_center_2.png</url>
+      <title>Zheng Wu</title>
+      <link>https://memenzel.github.io/author/zheng-wu/</link>
+    </image>
+    
+    <item>
+      <title>Replicating the Hadley Cell and subtropical jet disconnect in idealized atmospheric models (submitted)</title>
+      <link>https://memenzel.github.io/publication/menzel_etal_ideal/</link>
+      <pubDate>Wed, 25 Oct 2023 23:11:34 -0400</pubDate>
+      <guid>https://memenzel.github.io/publication/menzel_etal_ideal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
