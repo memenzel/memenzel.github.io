@@ -47,8 +47,8 @@ sections:
           - publication
         featured_only: false
     design:
-      view: article-grid
-      columns: 2
+      view: citation
+      columns: 5
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -60,15 +60,16 @@ sections:
   #   design:
   #     view: citation
   - block: collection
-    id: talks
+    id: presentations
     content:
       title: Presentations
       filters:
         folders:
-          - event
+          - presentations
     design:
-      view: article-grid
-      columns: 1
+      view: date-title-summary
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: resume-experience
     id: experience
     content: 
