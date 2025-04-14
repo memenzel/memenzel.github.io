@@ -73,7 +73,8 @@ sections:
     id: experience
     content: 
       username: admin
-    design: 
+    design:
+      title: Teaching
       # Hugo date format 
       date_format: 'January 2006'
       # Education or Experience section first? 
