@@ -44,11 +44,10 @@ sections:
       title: Refereed Publications
       filters:
         folders:
-          - publication
+          - publications
         featured_only: false
     design:
       view: citation
-      columns: 5
   # - block: collection
   #   content:
   #     title: Recent Publications
