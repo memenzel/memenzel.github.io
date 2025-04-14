@@ -7,21 +7,15 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
-    url: experience/
+  - name: Publications
+    url: /#publications
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Presentations
+    url: /#talks
     weight: 30
   - name: Teaching
-    url: teaching/
-    weight: 40
+    url: /#experience
+    weight: 30
+  - name: CV
+    url: files/molly_menzel_cv.pdf
+    weight: 50
