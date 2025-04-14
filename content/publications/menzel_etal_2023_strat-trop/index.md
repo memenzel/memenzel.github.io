@@ -13,10 +13,7 @@ doi: "https://doi.org/10.1175/JCLI-D-22-0851.1"
 publishDate: 2023-05-23T23:11:34-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Climate"

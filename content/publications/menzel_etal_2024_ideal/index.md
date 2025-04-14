@@ -14,10 +14,7 @@ doi: "https://doi.org/10.5194/wcd-5-251-2024"
 publishDate: 2023-03-02T23:11:34-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Weather and Climate Dynamics"
