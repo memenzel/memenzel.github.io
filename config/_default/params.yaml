@@ -5,7 +5,8 @@
 
 # Appearance
 appearance:
-  mode: light
+  theme_default: dark
+  mode: dark
   color: gem
 
 # SEO
