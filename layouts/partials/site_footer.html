@@ -14,7 +14,7 @@
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
     {{ if not (and $is_sponsor $hide_published_with_footer) }}
-      {{ $default := "Published with {hugoblox} }}
+      {{ $default := "Published with {hugoblox}" }}
       {{ $i18n_published_with := i18n "published_with" | default $default }}
       {{ if not (findRE "{hugoblox}" $i18n_published_with) }}
         {{ warnf "Please attribute Hugo Blox using `{hugoblox}` in the `published_with` text." }}

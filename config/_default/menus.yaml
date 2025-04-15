@@ -14,5 +14,5 @@ main:
     url: /#experience
     weight: 30
   - name: CV
-    url: files/molly_menzel_cv.pdf
+    url: files/MollyMenzel_CV.pdf
     weight: 50
