@@ -187,6 +187,6 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Researcher, Learner, Instructor
 
 Hi! My name is Molly Menzel, welcome to my personal page. I study our planet's atmosphere by using both idealized and fully comprehensive climate models to better understand the dynamics involved. These models present valuable insight and allow us to further develop theory that describes past, present, and future climates. I hold a doctorate from Johns Hopkins University and started a NASA Postdoctoral Program fellowship at the Goddard Institute for Space Studies in the fall of 2022. My latest research is focused on developing a better understanding of the relationship between the upper tropospheric and lower stratospheric circulation features, and how that impacts both the tropics, the midlatitudes, as well as stratospheric transport. In addition to research, I actively seek out opportunities to teach the dynamics of our climate to students and the general public alike. See my CV for an updated list of activities.
