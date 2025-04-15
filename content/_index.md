@@ -15,7 +15,7 @@ sections:
       username: admin
       text: ""
     design:
-      css_class: light
+      css_class: dark
       background:
         color: gem
         # image:
