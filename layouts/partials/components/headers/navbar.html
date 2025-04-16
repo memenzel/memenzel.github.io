@@ -2,7 +2,7 @@
   <nav class="navbar px-3 flex justify-left">
     <div class="order-0 h-100">
       <!-- Brand -->
-      <a class="navbar-brand" href="{{ site.Home.RelPermalink }}#" title="{{ site.Title }}">
+      <a class="navbar-brand nav-link" href="{{ site.Home.RelPermalink }}#" title="{{ site.Title }}">
         {{- $logo_filename := site.Params.header.navbar.logo.filename -}}
         {{ with $logo_filename }}
           {{- $logo:= resources.Get (path.Join "media" $logo_filename) -}}
