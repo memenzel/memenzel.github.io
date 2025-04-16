@@ -12,3 +12,36 @@
   --color-primary-900: 35 65 90; /* Cap background (circle) */
   --color-primary-950: 5 46 22;
 }
+
+/*
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto- {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+*/
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  .navbar, .nav-link, h, h2, h3, h4, h5, h6, .text-3xl, .section-subheading {
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+  }
+  .navbar-brand {
+    font-size: 1.875rem;
+  }
+  .md\:mt-12 {
+    margin-top: 1.5rem;
+  }
+}
