@@ -61,7 +61,7 @@ sections:
   - block: collection
     id: presentations
     content:
-      title: Presentations
+      title: Selected Presentations
       filters:
         folders:
           - presentations

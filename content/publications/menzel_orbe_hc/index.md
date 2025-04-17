@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Winter Patterns of the Hadley Circulation's Response to Increased CO2 are Distinct between the Upper and Lower Troposphere (submitted)"
+title: "Winter Patterns of the Hadley Circulation's Response to Increased CO2 are Distinct between the Upper and Lower Troposphere (in revision)"
 authors:
 - Molly E Menzel
 - Clara Orbe 
@@ -9,7 +9,7 @@ authors:
 #doi: "https://doi.org/10.5194/wcd-5-251-2024"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-12-02T23:11:34-04:00
+publishDate: 2025-01-01T23:11:34-04:00
 
 # Publication type.
 publication_types: ["article-journal"]

@@ -1,31 +1,31 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AGU's 2020 Fall Meeting"
-event:
-event_url:
-location: Virtual
+title: "AMS 104th Annual Meeting, 36th Conference on Climate Variability and Change"
+event: American Meteorological Society's 104th Annual Meeting, 36th Conference on Climate Variability and Change
+event_url: https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/432316
+location: Baltimore, MD
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: Preliminary work looking at the Hadley Cell and subtropical jet disconnect in idealized models displayed at the virtual AGU in poster presentation.
-abstract:
+summary: Vertical and Regional Patterns of Tropical Circulation Response to Increased CO2
+abstract: In recent years, attention has been given to the Intertropical Convergence Zone's (ITCZ) response to a changing climate. Several studies predict a narrowing and enhancement of the ITCZ, but the lack of robustness across coupled climate models has obfuscated that result. Here, we present a comprehensive view of the Hadley Cell's upwelling response to increased CO2. Analysis of CMIP6 models shows a consistent vertical dependence such that the upwelling narrows and strengthens in the upper troposphere while widening and weakening in the lower troposphere. Further, we consider the upwelling's response as a function of longitude to illuminate the physical mechanisms responsible for the vertical pattern.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-16T13:40:07-04:00
-#date_end: 2020-06-24T22:40:07-04:00
+date: 2024-01-29T11:30:00-04:00
+#date_end: 2022-06-24T22:43:29-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-06-24T22:40:07-04:00
+publishDate: 2022-06-24T22:43:29-04:00
 
 authors:
 - Molly E Menzel
-- Darryn Waugh
+- Clara Orbe 
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -42,12 +42,8 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Program
-  url: https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/704583
-- name: Poster (online view)
-  url: https://agu2020fallmeeting-agu.ipostersessions.com/default.aspx?s=54-89-32-63-06-4F-EE-E7-D5-66-E5-BF-11-04-02-AA
-- name: Poster (print view)
-  url: https://agu2020fallmeeting-agu.ipostersessions.com/Default.aspx?s=54-89-32-63-06-4F-EE-E7-D5-66-E5-BF-11-04-02-AA&pdfprint=true&guestview=true
+- name: Video
+  url: https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Session/65332 
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:

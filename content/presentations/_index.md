@@ -1,5 +1,5 @@
 ---
-title: Presentations
+title: Selected Presentations
 
 # Optional header image (relative to `static/img/` folder).
 header:

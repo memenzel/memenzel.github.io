@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AGU Fall Meeting 2018"
+title: "AGU's 2018 Fall Meeting"
 event:
 event_url:
-location: Washington, D.C.
+location: Washington, DC
 address:
   street:
   city:
