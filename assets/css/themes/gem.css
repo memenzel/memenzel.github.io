@@ -2,7 +2,7 @@
 :root {
   --color-primary-50: 240 253 244;
   --color-primary-100: 220 252 231;
-  --color-primary-200: 187 247 208;
+  --color-primary-200: 107 155 195; /* publication titles */
   --color-primary-300: 107 155 195; /* Cap outline */
   --color-primary-400: 107 155 195; /* Links */
   --color-primary-500: 107 155 195; /* "Read more" */
@@ -34,12 +34,15 @@ html {
 }
 body {
   font-family: "Roboto", sans-serif;
-  .navbar, .nav-link, h, h2, h3, h4, h5, h6, .text-3xl, .section-subheading {
+  .navbar, .nav-link, h1, h2, h3, h4, h5, h6, .text-3xl, .text-2xl, .section-subheading, .leading-6 {
     font-family: "Playfair Display", serif;
     font-weight: 600;
   }
   .navbar-brand {
     font-size: 1.875rem;
+  }
+  .powered-by {
+    font-family: "Roboto", sans-serif;
   }
   .md\:mt-12 {
     margin-top: 1.5rem;
