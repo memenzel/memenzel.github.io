@@ -13,6 +13,6 @@ main:
   - name: Teaching
     url: /#experience
     weight: 30
-  - name: CV
-    url: files/MollyMenzel_CV.pdf
-    weight: 50
+#  - name: CV
+#    url: files/MollyMenzel_CV.pdf
+#    weight: 50
